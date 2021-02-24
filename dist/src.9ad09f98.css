@@ -1,5 +1,6 @@
 body {
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;
+  color: #121212;
 }
 
 .container {
@@ -31,8 +32,36 @@ p {
 }
 
 .portfolio__description--1 {
-  background-color: rgb(228, 228, 228);
+  background-color: #F4F4F4;
 }
+
+.portfolio__description--2 {
+  background-color: #E5E5E5;
+}
+
+.portfolio__description--3 {
+  background-color: #1D1A21;
+  color: #DCB220;
+}
+
+.portfolio__description--4 {
+  background-color: #FFF;
+  border: 1px solid #121212;
+}
+
+.portfolio__description--5 {
+  background-color: #F3EFE6;
+}
+
+.portfolio__description--6 {
+  background-color: #E9E3D3;
+}
+
+.portfolio__description--7 {
+  background-color: #1C1C1C;
+  color: #FFFFFF;
+}
+
 
 
 /*# sourceMappingURL=/src.9ad09f98.css.map */
