@@ -6,7 +6,8 @@
   "scripts": {
     "start": "npx parcel src/index.html",
     "build": "npx parcel build src/index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm build && surge dist premium-bait.surge.sh"
   },
   "keywords": [],
   "author": "",
