@@ -19,7 +19,6 @@ p {
 }
 
 .portfolio__item {
-  background: red;
   min-height: 200px;
   background-size: cover;
 }
